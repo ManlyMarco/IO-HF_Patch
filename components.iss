@@ -15,13 +15,13 @@ Name: "UNC\IO_Demosaic";                       Description: "IO_Demosaic v1.1 (R
 Name: "UNC\IOTextureReplacer";                 Description: "IOTextureReplacer v0.1.1 (Replace game textures with custom ones. Includes uncensored textures that help fully uncensor the game)"; Types: full_en full extra extra_en
 ; -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Name: "AT";                                    Description: "XUnity Auto Translator v5.2.0 (Translation loader)"                                   ; Types: full_en full extra extra_en custom
-Name: "AT\TL";                                 Description: "Translation (English translation)"                                                    ; Types: full_en extra_en
+Name: "AT\TL";                                 Description: "English translation v2023/10/09 (Full English translation of the in-game text)"       ; Types: full_en extra_en
 Name: "AT\TL\IO_ResizeText";                   Description: "IO_ResizeText v1.1.1 (Fix scaling issues of translated text in H-Scenes)"             ; Types: full_en extra_en
 ; -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ; Name: "Content";                               Description: "Additional content (Needed to properly load most character cards and scenes)"         ; Types: full extra
 ; -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Name: "FIX";                                   Description: "Fixes and improvements"                                                               ; Types: extra_en extra
-Name: "FIX\IO_Tweaks";                         Description: "Cheats/trainer, Translation improvements, and other tweaks v1.0 (Press [F1 > Plugin settings] to enable the trainer)"; Types: full_en full extra extra_en
+Name: "FIX\IO_Tweaks";                         Description: "Translation improvements and other tweaks v1.0 (You can enable debug mode (trainer) from Settings > Plugin Settings)"; Types: full_en full extra extra_en
 Name: "FIX\GraphicsSettings";                  Description: "Graphics Settings v1.3 (Adds more graphics settings to Plugin settings, improves graphics by default)"; Types: full_en extra_en full extra
 Name: "FIX\IO_MirrorResolution";               Description: "IO_MirrorResolution v1.0 (Choose resolution of the mirror reflection in config)"      ; Types: full_en full extra extra_en
 Name: "FIX\IO_DisableTextScrolling";           Description: "IO_DisableTextScrolling v1.1.1 (Adds option to completely remove text scrolling effect in dialog boxes, check plugin settings)"; Types: full_en full extra extra_en

@@ -20,8 +20,8 @@ CloseApplicationsFilter=*.exe,*.dll
 Compression=lzma2/ultra64
 ;lzma2/ultra64 | zip | lzma2/fast
 LZMAUseSeparateProcess=yes
-LZMADictionarySize=208576
-;LZMADictionarySize=262144
+;LZMADictionarySize=208576
+LZMADictionarySize=262144
 LZMANumFastBytes=273
 LZMANumBlockThreads=1
 DiskSpanning=no

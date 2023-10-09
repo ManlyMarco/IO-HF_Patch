@@ -8,11 +8,6 @@
 - Author(s):         BepInEx
 - More information:  https://github.com/BepInEx/BepInEx.Utility
 
-# Cheats/trainer, Translation improvements, and other tweaks v1.0
-- Short description: Press [F1 > Plugin settings] to enable the trainer
-- Author(s):         ManlyMarco
-- More information:  https://github.com/ManlyMarco/IO-HF_Patch
-
 # Configuration Manager v18.0.1
 - Short description: Can change plugin settings. Press F12 (or F1 > Plugin settings) to open
 - Author(s):         BepInEx
@@ -32,6 +27,11 @@
 - Short description: Allows resizing of game window
 - Author(s):         BepInEx
 - More information:  https://github.com/BepInEx/BepInEx.Utility
+
+# English translation v2023/10/09
+- Short description: Full English translation of the in-game text
+- Author(s):         SpockBauru, ManlyMarco, BOOMBOX1701, luckyPervert, creaturefromthedeep, Zantification
+- More information:  https://github.com/SpockBauru/IO_Translation
 
 # FPS Counter v3.1
 - Short description: Useful for performance testing
@@ -113,10 +113,10 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/RuntimeUnityEditor
 
-# Translation
-- Short description: English translation
-- Author(s):         SpockBauru, ManlyMarco, BOOMBOX1701, luckyPervert, creaturefromthedeep, Zantification
-- More information:  https://github.com/SpockBauru/IO_Translation
+# Translation improvements and other tweaks v1.0
+- Short description: You can enable debug mode (trainer) from Settings > Plugin Settings
+- Author(s):         ManlyMarco
+- More information:  https://github.com/ManlyMarco/IO-HF_Patch
 
 # VR mod for Insult Order v0.0.2
 - Short description: Warning: has bugs, do not install unless you want to use it

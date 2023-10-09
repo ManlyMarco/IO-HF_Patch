@@ -8,6 +8,7 @@ HF Patch does not contain the game, only mods. You have to buy the game separate
 
 ## Important notes, please read
 - This patch lets you play the game in both English and Japanese. The uncensor works even when playing in Japanese.
+- If you install English translations, you have to start the game through the English launcher. If you use the Japanese launcher then the game will start in Japanese language.
 - If you want to skip straight to a specific story scene you can do it through the debug mode. In title screen go to Settings, open Plugin settings on the right, and enable the "Show debug mode button" setting. Go back to the title screen, click the newly appeared button in bottom left corner and go wild. Warning: Back up your save files if you care about your progress!
 - An optional VR mod is included, but beware that it has many known issues. Don’t install it unless you plan to use it or it might cause some issues even when playing the game without VR. To run the game in VR make sure you have SteamVR installed and configured and launch the VR shortcut inside the game directory (you might need to start SteamVR first).
 - HF Patch does not contain the full game, paid expansions or any other pirated content. You have to buy the game and expansions separately.
