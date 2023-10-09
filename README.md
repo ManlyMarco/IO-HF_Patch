@@ -1,4 +1,4 @@
-![agh hfp preview](https://github.com/ManlyMarco/AGH-HF_Patch/assets/39247311/749e77fd-5623-42b6-8929-53d1f00eb462)
+![io hf patch preview](https://github.com/ManlyMarco/IO-HF_Patch/assets/39247311/dedd3aca-b8f2-40b3-acd0-c85e9939387b)
 # HF Patch for Insult Order
 An unofficial patch for [INSULT ORDER ～Cheeky nyan girl's menu of debauchery～](https://miconisomi.xii.jp/io) (インサルトオーダー～生イキにゃん娘の快堕メニュー～) by miconisomi. It fully translates and uncensors the game, and includes other useful mods.
 
